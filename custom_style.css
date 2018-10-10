@@ -31,7 +31,10 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2rem; 
+  font-size: 2rem;
+  background: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .btn {
